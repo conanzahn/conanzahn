@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋. I'm Haonan:smile:!
 
-<!--
-**conanzahn/conanzahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently open to work (will graduate from UNSW in 27th Sep 2021).
+- 🌱 I’m currently learning Web Development.
+- :open_file_folder: Some developments I have done recent 3 month for self-learning and fun:
+  - :pushpin: [My Weather App](https://conanzahn.github.io/myweather/)
+  - :pushpin: [My Personal Website](http://haonan.zhang.website.s3-website.us-east-2.amazonaws.com/)
+  - :pushpin: [Value Eats](https://github.com/conanzahn/ValueEatsWebsite9900)
+- 📫 How to reach me: 
+  - Email: conanzahn@gmail.com
+  - LinkedIn: [Haonan Zhang](https://www.linkedin.com/in/haonan-zhang-unsw/)
+  - WeChat: Zahnisme
+- ⚡ Fun fact: 
+  - I study biology for my bachelor degree:mortar_board:. And then transfer to IT in the 2nd term in my master degree.
+  - I love music:notes:, however, I'm terrible in singing and rhythm:sweat_smile:.
