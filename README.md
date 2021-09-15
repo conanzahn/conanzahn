@@ -11,5 +11,4 @@
   - LinkedIn: [Haonan Zhang](https://www.linkedin.com/in/haonan-zhang-unsw/)
   - WeChat: Zahnisme
 - ⚡ Fun fact: 
-  - I study biology for my bachelor degree:mortar_board:. And then transfer to IT in the 2nd term in my master degree.
   - I love music:notes:, however, I'm terrible in singing and rhythm:sweat_smile:.
