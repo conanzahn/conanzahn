@@ -12,4 +12,6 @@
   - LinkedIn: [Haonan Zhang](https://www.linkedin.com/in/haonan-zhang-unsw/)
   - WeChat: Zahnisme
 - ⚡ Fun fact: 
+  - I am a big fan of Photography.
   - I love music:notes:, however, I'm terrible in singing and rhythm:sweat_smile:.
+  - I used to be crazy about basketball, but I got injured in one competition, although I won the competition, it took me a half year to recover.
